@@ -1,4 +1,4 @@
-<img width="1000px" height="200px" style="border-radius: 50px;" src="https://imgs.search.brave.com/Yiy95Yc9pQlOv2h4M2YBB6QyZyQSG2afEsRDKcFAq6U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90b2tl/bml6ZWRocS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDgvOC1hZXN0aGV0/aWMtYW5pbWUtZ2lm/LWJhbm5lci1kaXNj/b3JkLXNob290aW5n/LXN0YXJzLmdpZg.gif" alt="">
+<img width="1000px" height="200px" src="https://imgs.search.brave.com/Yiy95Yc9pQlOv2h4M2YBB6QyZyQSG2afEsRDKcFAq6U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90b2tl/bml6ZWRocS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDgvOC1hZXN0aGV0/aWMtYW5pbWUtZ2lm/LWJhbm5lci1kaXNj/b3JkLXNob290aW5n/LXN0YXJzLmdpZg.gif" alt="">
 <h1 align="center">Hi 👋, I'm rezadrakhshan</h1>
 <h3 align="center">A passionate backend developer from iran</h3>
 
@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezadrakhshan&show_icons=true&locale=en&layout=compact" alt="rezadrakhshan" /></p>
 
