@@ -1,7 +1,7 @@
-
+<img width="1000px" height="200px" src="https://imgs.search.brave.com/Yiy95Yc9pQlOv2h4M2YBB6QyZyQSG2afEsRDKcFAq6U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90b2tl/bml6ZWRocS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDgvOC1hZXN0aGV0/aWMtYW5pbWUtZ2lm/LWJhbm5lci1kaXNj/b3JkLXNob290aW5n/LXN0YXJzLmdpZg.gif" alt="">
 <h1 align="center">Hi 👋, I'm rezadrakhshan</h1>
 <h3 align="center">A passionate backend developer from iran</h3>
-
+<img align="right" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" alt="coding" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezadrakhshan&label=Profile%20views&color=0e75b6&style=flat" alt="rezadrakhshan" /> </p>
 
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezadrakhshan&show_icons=true&locale=en&layout=compact" alt="rezadrakhshan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezadrakhshan&show_icons=true&locale=en" alt="rezadrakhshan" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezadrakhshan&" alt="rezadrakhshan" /></p>
