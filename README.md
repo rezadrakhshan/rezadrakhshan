@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FastAPI**
 
-- 💬 Ask me about **django,FastAPI,python**
+- 💬 Ask me about **django,python**
 
 - 📫 How to reach me **srdrakhshan@gmail.com**
 
