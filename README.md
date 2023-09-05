@@ -5,7 +5,7 @@
 
 
 
-<img align="right" width="500px" src="https://imgs.search.brave.com/oPnYHljDyGdevIa0f3ZRkGvfo2OONwXTHauDA3KVEBU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbWFuLXF1/aWNrLXN5c3RlbS1j/b2RpbmctdmdzZGEy/dDdkNXR1N285eC5n/aWY.gif" alt="">
+<img align="right" width="500px" src="https://imgs.search.brave.com/8x_OZylgETLNOrKwWifNji4CBrssCrXWPGLBFtFDoCc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvcHJvZ3Jh/bW1pbmctY29kaW5n/LWZpbmRpbmctd2hv/LWFza2VkLXlkdmQ2/b2NwZjV4a200eG4u/Z2lm.gif" alt="">
 
 - 🔭 I’m currently working on **FastAPI Projects**
 
