@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm rezadrakhshan</h1>
 <h3 align="center">A passionate backend developer from iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezadrakhshan&label=Profile%20views&color=0e75b6&style=flat" alt="rezadrakhshan" /> </p>
+<p align="left"> <img src="https://imgs.search.brave.com/oPnYHljDyGdevIa0f3ZRkGvfo2OONwXTHauDA3KVEBU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbWFuLXF1/aWNrLXN5c3RlbS1j/b2RpbmctdmdzZGEy/dDdkNXR1N285eC5n/aWY.gif" alt="rezadrakhshan" /> </p>
 
 <img align="right" width="500px" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" alt="">
 
