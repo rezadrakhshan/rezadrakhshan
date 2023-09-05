@@ -1,4 +1,4 @@
-<img width="1100px" height="100px" src="https://imgs.search.brave.com/wmKj94ifgdyGg1ec6PYzL0tDfgX9IbeicrtRtzy26eQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LXNraWxscy1sb2Fk/aW5nLWRrNjh2OHow/aGV2anB1aXYuZ2lm.gif" alt="">
+
 <h1 align="center">Hi 👋, I'm rezadrakhshan</h1>
 <h3 align="center">A passionate backend developer from iran</h3>
 
