@@ -5,7 +5,7 @@
 
 
 
-<img align="right" width="500px" src="https://th.bing.com/th/id/OIG.RDh2BrU12NItrsi5egrp?pid=ImgGn" alt="">
+<img align="right" width="500px" src="https://th.bing.com/th/id/OIG.ba_LIDyGhctDufE_rozc?pid=ImgGn" alt="">
 
 - 🔭 I’m currently working on **FastAPI Projects**
 
