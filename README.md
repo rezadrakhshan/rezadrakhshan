@@ -5,7 +5,7 @@
 
 
 
-<img align="right" width="500px" src="https://imgs.search.brave.com/QW8pIv34wpr1h4pbl3_StT5shEGGqKvjju9eIASARwY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2U0LzI2/LzcwL2U0MjY3MDJl/ZGY4NzRiMTgxYWNl/ZDFlMmZhNWM2Y2Rl/LmdpZg.gif" alt="">
+<img align="right" width="500px" src="https://th.bing.com/th/id/OIG.RDh2BrU12NItrsi5egrp?pid=ImgGn" alt="">
 
 - 🔭 I’m currently working on **FastAPI Projects**
 
