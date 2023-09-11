@@ -22,6 +22,9 @@
   <a href="mailto:srdrakhshan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  <a href="http://t.me/Portfolio_my_BOT">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </div>
 
  <hr/>
