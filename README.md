@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **tkinter,FastAPI**
+ 🔭 I’m currently working on **MySql**
  
- 🌱 I’m currently learning **tkinter,FastAPI**
+ 🌱 I’m currently learning **MySql**
 
  💬 Ask me about **django,python**
  
