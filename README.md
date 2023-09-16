@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MySql**
+ 🔭 I’m currently working on **FastAPI,TelegramBot**
  
- 🌱 I’m currently learning **MySql**
+ 🌱 I’m currently learning **MySql,TelegramBot**
 
  💬 Ask me about **django,python**
  
