@@ -50,7 +50,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezadrakhshan&show_icons=true&locale=en" alt="rezadrakhshan" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=rezadrakhshan&show_icons=true&locale=en" alt="rezadrakhshan" /></p>
 
 
 <hr/>
