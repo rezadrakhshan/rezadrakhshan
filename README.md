@@ -7,9 +7,9 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **Django,MySql**
+ 🔭 I’m currently working on **Django,TelegramBot**
  
- 🌱 I’m currently learning **MySql**
+ 🌱 I’m currently learning **Teleton**
 
  💬 Ask me about **django,python**
  
@@ -31,7 +31,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,django,html,css,git,fastapi,discord,linkedin" /><br>
+    <img src="https://skillicons.dev/icons?i=github,python,django,html,css,git,fastapi,discord,linkedin,mysql" /><br>
 </div>
 
 <br/>
