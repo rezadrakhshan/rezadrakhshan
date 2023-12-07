@@ -9,7 +9,7 @@
  
  🔭 I’m currently working on **Django,TelegramBot**
  
- 🌱 I’m currently learning **Teleton**
+ 🌱 I’m currently learning **Teleton,OS**
 
  💬 Ask me about **django,python**
  
