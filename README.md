@@ -10,8 +10,6 @@
  🔭 I’m currently working on **Django,TelegramBot**
  
  🌱 I’m currently learning **Teleton,Mysql**
- 
-  (¬_¬ ) I’m half looked at OS
 
  💬 Ask me about **django,python**
 
