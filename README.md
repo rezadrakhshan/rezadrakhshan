@@ -9,9 +9,12 @@
  
  🔭 I’m currently working on **Django,TelegramBot**
  
- 🌱 I’m currently learning **Teleton,OS**
+ 🌱 I’m currently learning **Teleton,Mysql**
+ 
+💞️ I’m looking to collaborate on OS
 
  💬 Ask me about **django,python**
+
  
  </div>
  
