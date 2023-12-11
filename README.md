@@ -11,7 +11,7 @@
  
  🌱 I’m currently learning **Teleton,Mysql**
  
-💞️ I’m looking to collaborate on OS
+  (¬_¬ ) I’m half looked at OS
 
  💬 Ask me about **django,python**
 
