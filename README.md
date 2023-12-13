@@ -26,6 +26,9 @@
   <a href="https://www.linkedin.com/in/seyedrezadrakhshan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"" />
   </a>
+ <a href="https://discord.com/invite/imreza#3197">
+    <img src="https://img.shields.io/badge/discord-0077B5?style=for-the-badge&logo=discord&logoColor=white"" />
+  </a>
 </div>
 
  <hr/>
