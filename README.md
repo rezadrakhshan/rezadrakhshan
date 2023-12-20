@@ -7,7 +7,7 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **Django,TelegramBot**
+ 🔭 I’m currently working on **Django**
  
  🌱 I’m currently learning **Teleton,Mysql**
 
