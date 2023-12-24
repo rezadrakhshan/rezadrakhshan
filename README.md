@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/discord-0077B5?style=for-the-badge&logo=discord&logoColor=white"" />
   </a>
   <a href="https://stackoverflow.com/users/23151708/seyedrezaderakhshan">
-    <img src="https://img.shields.io/badge/stackoverflow-0077B5?style=for-the-badge&logo=stackoverflow&logoColor=white"" />
+    <img src="https://img.shields.io/badge/stackoverflow-FF5349,?style=for-the-badge&logo=stackoverflow&logoColor=white"" />
   </a>
 </div>
 
