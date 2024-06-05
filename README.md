@@ -9,7 +9,7 @@
  
  🔭 I’m currently working on **Django**
  
- 🌱 I’m currently learning **Mysql**
+ 🌱 I’m currently learning **Mysql,JavaScript**
 
  💬 Ask me about **django,python**
 
