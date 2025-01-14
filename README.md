@@ -7,9 +7,9 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **Django**
+ 🔭 I’m currently working on **Django,NodeJs**
  
- 🌱 I’m currently learning **Numpy**
+ 🌱 I’m currently learning **NodeJs**
 
  💬 Ask me about **django,python**
 
@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,django,html,css,git,fastapi,discord,linkedin,mysql,javascript,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=github,python,django,html,css,git,fastapi,discord,linkedin,mysql,javascript,tailwind,nodejs" /><br>
 </div>
 
 <br/>
