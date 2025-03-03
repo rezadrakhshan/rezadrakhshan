@@ -11,7 +11,7 @@
  
  🌱 I’m currently learning **NodeJs**
 
- 💬 Ask me about **django,python**
+ 💬 Ask me about **django,python,Js**
 
  
  </div>
