@@ -7,9 +7,9 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **Django,NodeJs**
+ 🔭 I’m currently working on **NodeJs,socket.io**
  
- 🌱 I’m currently learning **NodeJs**
+ 🌱 I’m currently learning **socket.io**
 
  💬 Ask me about **django,python,Js**
 
