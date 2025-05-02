@@ -9,7 +9,7 @@
  
  🔭 I’m currently working on **NodeJs,socket.io**
  
- 🌱 I’m currently learning **socket.io**
+ 🌱 I’m currently learning **TypeScript**
 
  💬 Ask me about **django,python,Js**
 
