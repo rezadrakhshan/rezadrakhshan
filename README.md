@@ -4,49 +4,58 @@
 
 <h3 align="center">A passionate backend developer from iran</h3>
 
-<br/>
 <div align="center">
  
- 🔭 I’m currently working on **NodeJs,socket.io**
+ 🎓 High school CS student from Shahriar, Iran
  
- 🌱 I’m currently learning **TypeScript**
+ ⚙️ Backend Developer with Python & JavaScrip
 
- 💬 Ask me about **django,python,Js**
+ 📡 Enthusiastic about Socket.IO and real-time projects
+
+ 📚 Currently exploring TypeScript & Docker
 
  
  </div>
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/seyedrezadrakhshan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30" />
   </a>
- <a href="https://discord.com/invite/imreza#3197">
-    <img src="https://img.shields.io/badge/discord-0077B5?style=for-the-badge&logo=discord&logoColor=white"" />
+  <a href="https://discord.com/invite/imreza#3197">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" height="30" />
   </a>
   <a href="https://stackoverflow.com/users/23151708/seyedrezaderakhshan">
-    <img src="https://img.shields.io/badge/stackoverflow-FF5349,?style=for-the-badge&logo=stackoverflow&logoColor=white"" />
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white" height="30" />
   </a>
 </div>
+
 
  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io" />
-   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman" />
-  <img src="https://img.shields.io/badge/Railway-000000?style=flat&logo=railway" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" />
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="30" />
+
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/FastAPI-00A884?style=flat&logo=fastapi&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Express.js-303030?style=flat&logo=express&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" height="30" />
+
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30"  />
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="30" />
+</p>
+
 </div>
 
 <br/>
