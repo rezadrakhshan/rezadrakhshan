@@ -74,7 +74,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div align="center">  <img src="https://github-readme-stats.vercel.app/api?username=rezadrakhshan&show_icons=true&theme=midnight-purple" /><img src="https://streak-stats.demolab.com?user=rezadrakhshan&theme=midnight-purple" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rezadrakhshan&show_icons=true&locale=en&theme=tokyonight" alt="rezadrakhshan" /></div>
+
 
 
 
