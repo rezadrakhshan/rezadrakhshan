@@ -32,7 +32,21 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,git,fastapi,mysql,javascript,tailwind,nodejs,postman,postgresql,mongodb" /><br>
+  <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io" />
+   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman" />
+  <img src="https://img.shields.io/badge/Railway-000000?style=flat&logo=railway" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" />
 </div>
 
 <br/>
@@ -51,7 +65,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=rezadrakhshan&show_icons=true&locale=en" alt="rezadrakhshan" /></p>
+<div align="center">  <img src="https://github-readme-stats.vercel.app/api?username=rezadrakhshan&show_icons=true&theme=midnight-purple" /><img src="https://streak-stats.demolab.com?user=rezadrakhshan&theme=midnight-purple" /></div>
+
 
 
 <hr/>
