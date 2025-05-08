@@ -49,7 +49,6 @@
 
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30"  />
 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="30" />
