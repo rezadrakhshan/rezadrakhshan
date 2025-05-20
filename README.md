@@ -12,7 +12,7 @@
 
  📡 Enthusiastic about Socket.IO and real-time projects
 
- 📚 Currently exploring TypeScript & Docker
+ 📚 Currently exploring TypeScript & Nest.js
 
  
  </div>
@@ -53,6 +53,7 @@
 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height="30" />
 </p>
 
 </div>
