@@ -12,7 +12,7 @@
 
  📡 Enthusiastic about Socket.IO and real-time projects
 
- 📚 Currently exploring TypeScript & Nest.js
+ 📚 Currently exploring Docker
 
  
  </div>
