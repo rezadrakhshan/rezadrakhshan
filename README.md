@@ -55,7 +55,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Docker-1D63ED?style=flat&logo=docker&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Redis-1D63ED?style=flat&logo=redis&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="30" />
+
 
 </p>
 
