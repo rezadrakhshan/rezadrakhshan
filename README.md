@@ -12,7 +12,7 @@
 
  📡 Enthusiastic about Socket.IO and real-time projects
 
- 📚 Currently exploring grammY
+ 📚 Currently exploring n8n
 
  
  </div>
