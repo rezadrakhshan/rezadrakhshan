@@ -1,12 +1,14 @@
-name: generate pacman game
+name: Generate pacman animation
 
 on:
-  schedule: # Run automatically every 24 hours
-    - cron: "0 */24 * * *"
-  workflow_dispatch: # Allows manual triggering
-  push: # Runs on every push to the main branch
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
+  workflow_dispatch:
+
+  push:
     branches:
-      - main
+    - main
 
 jobs:
   generate:
@@ -21,7 +23,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # Push the generated SVG to the output branch
+
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
