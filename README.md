@@ -12,7 +12,7 @@
 
  📡 Enthusiastic about Socket.IO and real-time projects
 
- 📚 Currently exploring n8n
+ 📚 Currently exploring Clean architecture
 
  
  </div>
