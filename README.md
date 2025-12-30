@@ -16,19 +16,6 @@
 
  
  </div>
- 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/seyedrezadrakhshan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30" />
-  </a>
-  <a href="https://discord.com/invite/imreza#3197">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" height="30" />
-  </a>
-  <a href="https://stackoverflow.com/users/23151708/seyedrezaderakhshan">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white" height="30" />
-  </a>
-</div>
-
 
  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -55,17 +42,6 @@
   
   <br/><br/><br/>
 </div>
-
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rezadrakhshan&show_icons=true&locale=en&theme=tokyonight" alt="rezadrakhshan" /></div>
-
-
-
 
 <hr/>
 
