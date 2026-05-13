@@ -10,9 +10,9 @@
  
  ⚙️ Backend Developer with Python & JavaScrip
 
- 📡 Enthusiastic about Socket.IO and real-time projects
+ 📡 Enthusiastic about NestJs
 
- 📚 Currently exploring Clean architecture
+ 📚 Currently exploring React
 
  
  </div>
