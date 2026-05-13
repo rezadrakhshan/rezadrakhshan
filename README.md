@@ -8,7 +8,7 @@
  
  🎓 CE student from Shahriar, Iran
  
- ⚙️ Backend Developer with Python & JavaScript
+ ⚙️ Backend Developer with Python & TypeScript
 
  📡 Enthusiastic about NestJs
 
