@@ -8,7 +8,7 @@
  
  🎓 High school CS student from Shahriar, Iran
  
- ⚙️ Backend Developer with Python & JavaScrip
+ ⚙️ Backend Developer with Python & JavaScript
 
  📡 Enthusiastic about NestJs
 
