@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🎓 High school CS student from Shahriar, Iran
+ 🎓 CE student from Shahriar, Iran
  
  ⚙️ Backend Developer with Python & JavaScript
 
