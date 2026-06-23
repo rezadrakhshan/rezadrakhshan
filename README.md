@@ -12,7 +12,7 @@
 
  📡 Enthusiastic about NestJs
 
- 📚 Currently exploring React
+ 📚 Currently exploring RabbitMq
 
  
  </div>
