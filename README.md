@@ -12,7 +12,7 @@
 
  📡 Enthusiastic about NestJs
 
- 📚 Currently exploring RabbitMq
+ 📚 Currently exploring Microservice
 
  
  </div>
