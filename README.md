@@ -12,7 +12,7 @@
 
  📡 Enthusiastic about NestJs
 
- 📚 Currently exploring Microservice
+ 📚 Currently exploring ElectronJS
 
  
  </div>
