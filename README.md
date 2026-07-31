@@ -12,7 +12,7 @@
 
  📡 Enthusiastic about NestJs
 
- 📚 Currently exploring ElectronJS
+ 📚 Currently exploring Clean Architectures
 
  
  </div>
